@@ -1,6 +1,6 @@
 ![Imgur](https://imgur.com/KSZEQFE.gif)
 
-![Imgur](https://imgur.com/tVWlWpd.jpg)
+![Imgur](https://imgur.com/9KQgjSq.jpg)
 # News App
 The NEWS application fetched the news and displays on the screen in either list or grid view. The user can click and see the detailed news in nexr screen.
 
