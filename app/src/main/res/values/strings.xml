@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title">News</string>
+    <string name="timestamp">Posted on \u0020</string>
+    <string name="transition_name_title">TransitionTitle</string>
+    <string name="transition_name_image">TransitionImage</string>
+    <string name="transition_name_snippet">TransitionSnippet</string>
+</resources>
