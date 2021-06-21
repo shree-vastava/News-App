@@ -104,14 +104,14 @@ class MainActivity : AppCompatActivity(), NewsClickListener {
     }
 
     fun switchLayout(){
-        if (gridLayoutManager?.spanCount == 1) {
-            gridLayoutManager?.spanCount = 2
+        if (gridLayoutManager.spanCount == 1) {
+            gridLayoutManager.spanCount = 2
             ic_layout.setImageResource(R.drawable.ic_list)
         } else {
-            gridLayoutManager?.spanCount = 1
+            gridLayoutManager.spanCount = 1
             ic_layout.setImageResource(R.drawable.ic_grid)
         }
-        newsAdapter?.notifyItemRangeChanged(0, newsAdapter?.itemCount ?: 0)
+        newsAdapter.notifyItemRangeChanged(0, newsAdapter.itemCount)
     }
 
     /**

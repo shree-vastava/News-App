@@ -14,8 +14,6 @@ import com.suki.newsapp.util.ViewType
 import kotlinx.android.synthetic.main.layout_grid_item.view.*
 import kotlinx.android.synthetic.main.layout_list_item.view.*
 import java.text.SimpleDateFormat
-import java.util.*
-import kotlin.collections.ArrayList
 
 class NewsAdapter(
     private val layoutManager: GridLayoutManager? = null,
